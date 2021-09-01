@@ -1,0 +1,8 @@
+.explore-buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.explore-buttons button {
+    padding: 10px;
+}

@@ -1,0 +1,63 @@
+.progress-item {
+    font-size: 1.1rem;
+    padding: 1px 20px;
+    margin: 5px;
+}
+
+.progress-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.progress-name {
+    align-self: center;
+    margin: 1em 0px;
+}
+
+.progress-indent-0 {
+    font-size: 1.3rem;
+    background-color: #d3d3d3;
+    padding: 5px 20px;
+    margin: 10px;
+}
+
+.progress-indent-1 {
+    background-color: #c6c6c6;
+}
+
+.progress-indent-2 {
+    background-color: #b5b5b5;
+}
+
+.progress-indent-3 {
+    background-color: #a0a0a0;
+}
+
+/* lol... */
+.progress-progress {
+    background-color: black;
+    font-weight: bold;
+    padding: 10px;
+    margin: 1rem;
+}
+
+.progress-FUTURE {
+    color: grey;
+    background-color: black;
+    font-style: italic;
+}
+
+.progress-PLANNING {
+    color: yellow;
+    background-color: orangered;
+}
+
+.progress-DEV {
+    color: cornflowerblue;
+    background-color: navy;
+}
+
+.progress-DONE {
+    color: lime;
+    background-color: green;
+}

@@ -1,0 +1,22 @@
+.tab {
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding: 0 1rem;
+    background-color: #dfdfdf;
+    border-radius: 4px;
+}
+
+.tab:hover a {
+    color: lightseagreen;
+    cursor: pointer;
+}
+
+.tab-link {
+    color: grey;
+}
+
+.tablist {
+    display: flex;
+    text-align: right;
+    justify-content: space-around;
+}
